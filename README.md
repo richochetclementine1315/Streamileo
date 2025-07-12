@@ -6,7 +6,9 @@
 
 
 
-<p align="center">https://github.com/richochetclementine1315/Streamileo/blob/main/logo.svg</p>
       
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/richochetclementine1315/Streamileo/main/logo.svg" alt="Streamileo Logo" width="320" />
+</p>
